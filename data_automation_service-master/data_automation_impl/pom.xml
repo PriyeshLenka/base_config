@@ -7,7 +7,7 @@
 		<artifactId>data_automation_service</artifactId>
 		<version>0.0.1-SNAPSHOT</version>
 	</parent>
-	<artifactId>g4_training_impl</artifactId>
+	<artifactId>data_automation_impl</artifactId>
 	<dependencies>
 		<dependency>
 			<groupId>com.database_config</groupId>
